@@ -2,7 +2,7 @@
 Powershell that sends pings to multiple targets in a Windows environment and emits a beep when the pings fail.
 
 
-#function
+# function
 It has the following functions.
 
 It runs on a Windows terminal running Powershell.
